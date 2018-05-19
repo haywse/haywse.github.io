@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img style="border: 0px solid ; width: 320px; height: 240px;" src="sherlock.jpg" alt="hi" class="inline" align="left"/>
+<img style="border: 0px solid ; width: 320px; height: 240px;" src="sherlock.jpg" alt="hi" class="inline">
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 

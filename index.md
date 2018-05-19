@@ -18,11 +18,11 @@ I also work on calibration and image reconstruction for medical imaging. I also 
 
 ### **Education**
 
-#### The University of Chicago
+The University of Chicago
 * Ph.D. candidate in Statistics, Expected 2018 
 * Advisor: Rina Foygel Barber
 
-#### Seoul National University 
+Seoul National University 
 * M.S., Statistics, 2013
 * B.S., Statistics, B.A., Economics, Minor in Mathematics, 2011
 
@@ -30,6 +30,7 @@ I also work on calibration and image reconstruction for medical imaging. I also 
 ### **Preprints / Publications**
 
 - Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization. 
+
 Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. submitted. arXiv:1805.00162
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name

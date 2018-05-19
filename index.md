@@ -3,9 +3,9 @@ title: About
 layout: default
 ---
 
-## About Me
-
 <img style="border: 0px solid ; width: 320px; height: 240px;" src="profile.jpg" alt="hi" class="inline">
+
+## About Me
 
 <p align="justify">
 
@@ -22,7 +22,7 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 </p>
 
-## Research Interest
+## Education
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 

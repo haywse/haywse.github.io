@@ -19,8 +19,9 @@ I also work on calibration and image reconstruction for medical imaging. I also 
 ### **Education**
 
 [The University of Chicago](https://www.uchicago.edu/)
+    
     Ph.D. candidate in Statistics, Expected 2018 
-* Advisor: [Rina Foygel Barber](http://galton.uchicago.edu/~rina/)
+    Advisor: [Rina Foygel Barber](http://galton.uchicago.edu/~rina/)
 
 [Seoul National University](http://en.snu.ac.kr/)
 * M.S., Statistics, 2013

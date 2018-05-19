@@ -5,7 +5,7 @@ layout: default
 
 <img style="border: 0px solid ; width: 320px; height: 240px;" src="profile.jpg" alt="hi" class="inline">
 
-### _**About Me**_
+### **__About Me__**
 
 
 I am currently a fifth year PhD student in the Department of Statistics at the University of Chicago. 
@@ -16,7 +16,7 @@ My current research is centered on high-dimensional statistics and (non)convex o
 I also work on calibration and image reconstruction for medical imaging. I also look forward to exploring research in other areas of statistics and machine learning!
 
 
-### **Education**
+### __Education__
 
 The University of Chicago
 * Ph.D. candidate in Statistics, Expected 2018 

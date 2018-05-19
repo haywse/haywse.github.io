@@ -5,7 +5,7 @@ layout: default
 
 <img style="border: 0px solid ; width: 320px; height: 240px;" src="profile.jpg" alt="hi" class="inline">
 
-## About Me
+## **About Me**
 
 
 I am currently a fifth year PhD student in the Department of Statistics at the University of Chicago. 
@@ -31,7 +31,7 @@ I also work on calibration and image reconstruction for medical imaging. I also 
 * B.S., Statistics, B.A., Economics, Minor in Mathematics, 2011
 
 
-## Publications
+## Preprints / Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London

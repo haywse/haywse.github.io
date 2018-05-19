@@ -5,7 +5,7 @@ layout: default
 
 <img style="border: 0px solid ; width: 320px; height: 240px;" src="profile.jpg" alt="hi" class="inline">
 
-### **About Me**
+### **_About Me_**
 
 
 I am currently a fifth year PhD student in the Department of Statistics at the University of Chicago. 
@@ -21,13 +21,11 @@ I also work on calibration and image reconstruction for medical imaging. I also 
 #### The University of Chicago
 
 * Ph.D. candidate in Statistics, Expected 2018 
-
 * Advisor: Rina Foygel Barber
 
 #### Seoul National University 
 
 * M.S., Statistics, 2013
-
 * B.S., Statistics, B.A., Economics, Minor in Mathematics, 2011
 
 

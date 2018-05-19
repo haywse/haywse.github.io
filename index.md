@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: About
 layout: default
 ---
 
@@ -8,6 +8,13 @@ layout: default
 <img style="border: 0px solid ; width: 320px; height: 240px;" src="profile.jpg" alt="hi" class="inline">
 
 <p align="justify">
+
+I am currently a fifth year PhD student in the Department of Statistics at the University of Chicago. 
+I am very happy to be advised by Rina Foygel Barber. My research is supported by Kwanjeong Fellowship.
+
+
+My current research is centered on high-dimensional statistics and (non)convex optimization. 
+I also work on calibration and image reconstruction for medical imaging. I also look forward to exploring research in other areas of statistics and machine learning!
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 

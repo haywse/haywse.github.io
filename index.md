@@ -8,21 +8,21 @@ layout: default
 ### **About Me**
 
 
-I am currently a fifth year PhD student in the Department of Statistics at the University of Chicago. 
-I am very happy to be advised by Rina Foygel Barber. My research is supported by Kwanjeong Fellowship.
+I am currently a fifth year PhD student in the [Department of Statistics](http://galton.uchicago.edu/) at the [University of Chicago](https://www.uchicago.edu/). 
+I am very happy to be advised by [Rina Foygel Barber](http://galton.uchicago.edu/~rina/). My research is supported by [Kwanjeong Fellowship](http://en.ikef.or.kr/).
 
 
 My current research is centered on high-dimensional statistics and (non)convex optimization. 
 I also work on calibration and image reconstruction for medical imaging. I also look forward to exploring research in other areas of statistics and machine learning!
 
 
-### __Education__
+### **Education**
 
-The University of Chicago
+[The University of Chicago](https://www.uchicago.edu/)
 * Ph.D. candidate in Statistics, Expected 2018 
-* Advisor: Rina Foygel Barber
+* Advisor: [Rina Foygel Barber](http://galton.uchicago.edu/~rina/)
 
-Seoul National University 
+[Seoul National University](http://en.snu.ac.kr/)
 * M.S., Statistics, 2013
 * B.S., Statistics, B.A., Economics, Minor in Mathematics, 2011
 
@@ -30,7 +30,7 @@ Seoul National University
 ### **Preprints / Publications**
 
 - Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization. 
-Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. submitted. arXiv:1805.00162
+Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. _submitted_. [arXiv:1805.00162](https://arxiv.org/abs/1805.00162)
 
 - Alternating minimization and alternating descent over nonconvex sets. (Code.) 
 Wooseok Ha and Rina Foygel Barber. submitted. arXiv:1709.04451

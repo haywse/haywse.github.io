@@ -5,7 +5,7 @@ layout: default
 
 <img style="border: 0px solid ; width: 320px; height: 240px;" src="profile.jpg" alt="hi" class="inline">
 
-### __**About Me**__
+### _**About Me**_
 
 
 I am currently a fifth year PhD student in the Department of Statistics at the University of Chicago. 

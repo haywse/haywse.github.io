@@ -7,7 +7,6 @@ layout: default
 
 ## About Me
 
-<p align="justify">
 
 I am currently a fifth year PhD student in the Department of Statistics at the University of Chicago. 
 I am very happy to be advised by Rina Foygel Barber. My research is supported by Kwanjeong Fellowship.
@@ -16,21 +15,20 @@ I am very happy to be advised by Rina Foygel Barber. My research is supported by
 My current research is centered on high-dimensional statistics and (non)convex optimization. 
 I also work on calibration and image reconstruction for medical imaging. I also look forward to exploring research in other areas of statistics and machine learning!
 
-</p>
 
 ## Education
 
-The University of Chicago
+#### The University of Chicago
 
->Ph.D. candidate in Statistics, Expected 2018 
+* Ph.D. candidate in Statistics, Expected 2018 
 
->Advisor: Rina Foygel Barber
+* Advisor: Rina Foygel Barber
 
-Seoul National University 
+#### Seoul National University 
 
-M.S., Statistics, 2013
+* M.S., Statistics, 2013
 
-B.S., Statistics, B.A., Economics, Minor in Mathematics, 2011
+* B.S., Statistics, B.A., Economics, Minor in Mathematics, 2011
 
 
 ## Publications

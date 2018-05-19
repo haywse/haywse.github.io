@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img src="sherlock.jpg">
+<img src="sherlock.jpg" alt="hi" class="inline"/>
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 

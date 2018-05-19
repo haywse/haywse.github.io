@@ -1,15 +1,13 @@
 ### your site title here
 
 title: Wooseok Ha
-author: Department of Statistics, University of Chicago
+author: Department of Statistics\\ University of Chicago
 email: haywse@gmail.com
 
 
 ### let's use the minima theme (see https://github.com/jekyll/minima)
 
 theme: minima
-
-footer: no
 
 
 ### exclude the instructions / write-up in the README.md

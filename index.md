@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-<img src="profile.jpg" alt="hi" class="inline">
+<img style="border: 0px solid ; width: 320px; height: 240px;" src="profile.jpg" alt="hi" class="inline">
 
 <p align="justify">
 

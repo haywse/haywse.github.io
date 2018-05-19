@@ -30,11 +30,31 @@ Seoul National University
 ### **Preprints / Publications**
 
 - Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization. 
-
 Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. submitted. arXiv:1805.00162
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- Alternating minimization and alternating descent over nonconvex sets. (Code.) 
+Wooseok Ha and Rina Foygel Barber. submitted. arXiv:1709.04451
+
+- Gradient descent with nonconvex constraints: local concavity determines convergence. (Code.)
+Rina Foygel Barber and Wooseok Ha. To appear in Information and Inference. arXiv:1703.07755
+
+- X-ray spectral calibration from transmission measurements using Gaussian blur model.
+Wooseok Ha, Emil Y Sidky and Rina Foygel Barber. Proceedings of the SPIE conference on Medical Imaging 2017: Physics of Medical Imaging.
+
+- Trimmed conformal prediction for high-dimensional models.
+Wenyu Chen, Zhaokai Wang, Wooseok Ha, Rina Foygel Barber. arXiv:1611.09933
+
+- Robust PCA with compressed data.
+Wooseok Ha and Rina Foygel Barber. 28th Annual Conference on Neural Information Processing Systems (NIPS 2015).
+
+
+
+### **Conference abstracts**
+
+- Simultaneous spectral scaling and basis material map reconstruction for spectral CT with photon-counting detectors.
+Emil Y Sidky, Taly Gilat Schmidt, Rina Foygel Barber, Wooseok Ha, and Xiaochuan Pan. 4th International Conference on Image Formation in X-ray Computed Tomography (CT meeting 2016).
+
+
 
 ## Typography
 

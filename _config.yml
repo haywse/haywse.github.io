@@ -1,15 +1,14 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+### your site title here
 
-markdown: kramdown
+title: Your Site Title
 
-tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/bk2dcradle"
-footer_text: "Page design by Ankit Sultana"
+### let's use the minima theme (see https://github.com/jekyll/minima)
 
-sass:
-    style: compressed
-    sass_dir: _sass
+theme: minima
+
+
+### exclude the instructions / write-up in the README.md
+
+exclude:
+- README.md

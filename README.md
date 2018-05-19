@@ -1,38 +1,67 @@
-# Researcher
 
-### [Demo Website](http://ankitsultana.com/researcher)
+# Hello, Minima! Theme - Get Started in 60 Seconds
 
-A clean, single column, monospace resume template built for jekyll
+Setup Jekyll with GitHub Pages in 60 seconds using Minima - the gem-packaged theme.
 
-### Installation
+### Step 1 - Create the Jekyll Configuration / Settings File
 
-Simply fork the repository and edit away.
+Add your site title e.g. Your Site Title and let's use the minima theme
 
-### Customization
+`_config.yml`:
 
-* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
+```
+title: Your Site Title
 
-* You can of course remove `contact.md` if you don't want it
-
-* To set the heading, edit the `title` variable in `_config.yml`
-
-* To edit the `links` mentioned on the navigation bar, edit the file `_data/nav.yml`
-
-* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
-
-* You can setup google analytics, by setting `tracking_id` in `_config.yml`
-
-* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
-
-```html
-<img class="profile-picture" src="sherlock.jpg">
+theme: minima
 ```
 
-* You can remove/customize the footer as you like by setting the
-appropriate variables in `_config.yml`
+### Step 2 - Create the Index Page
 
-**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+Add your index (front) page with a page title e.g. Welcome and using the default layout (built into Mimina and ready-to-use "out-of-the-gem"):
 
-### License
 
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+`index.md`:
+
+```
+---
+title: Welcome
+layout: default
+---
+
+Hello, Minima!
+```
+
+That's it. Ready for serving.
+
+Go on GitHub in your repos **Settings** tab to the **GitHub Pages** sections and pick **Use the master branch** in **Select Source**.
+Save. Enjoy. Happy Jekylling!
+
+
+### Live Demo
+
+See a live demo @ [`henrythemes.github.io/hello-minima-theme` »](https://henrythemes.github.io/hello-minima-theme)
+
+
+
+### Bonus - Q: Can I Use my Own Styles / Design / Theme? A: Hello, Jekyll! Theme - Get Started in 60 Seconds, The Blank Page Edition
+
+To start from scratch with no styles (that is, a blank page / site) see
+the [**Hello, Jekyll! Theme - Get Started in 60 Seconds**](https://github.com/henrythemes/hello-jekyll-theme) repo.
+
+
+### More Themes
+
+See the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
+
+
+## Meta
+
+#### License
+
+The Hello, Minima! theme is dedicated to the public domain.
+Use it as you please with no restrictions whatsoever.
+
+#### Questions? Comments?
+
+Post them to the [jekyll talk forum](http://talk.jekyllrb.com). Thanks!
+

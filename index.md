@@ -1,49 +1,57 @@
 ---
+title: Welcome
 layout: default
 ---
 
-## About Me
+Hello, Minima!
 
-<img style="border: 0px solid ; width: 320px; height: 240px;" src="sherlock.jpg" alt="hi" class="inline">
 
-<p align="justify">
+Welcome to markdown madness. We hope you **really** enjoy using good old text for writing.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Just type some [markdown](http://en.wikipedia.org/wiki/Markdown)
+and jekyll will automatically turn it into hypertext markup language (HTML). *Simple as that.*
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+> Quote goes here.
 
-</p>
+A list:
 
-## Research Interest
+- One
+- Two
+- Three
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Some inline code `to_html` and a preformatted code block:
 
-## Publications
+```
+Kramdown::Document.new( 'Hello Markdown!' ).to_html
+```
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+with code highlighting:
 
-## Typography
+``` ruby
+# The Greeter class
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+class Greeter
+  def initialize(name)
+    @name = name.capitalize
+  end
 
-Here is a table
+  def salute
+    puts "Hello #{@name}!"
+  end
+end
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+# Create a new object
+g = Greeter.new("world")
 
-Here is a horizontal rule
+# Output "Hello World!"
+g.salute
+```
 
----
+Or try
 
-Here is a blockquote
+# Heading 1
 
-> To a great mind, nothing is little
+## Heading 2
 
-## References
+### Heading 3
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

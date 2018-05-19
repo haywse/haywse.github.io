@@ -49,7 +49,7 @@ Wooseok Ha and Rina Foygel Barber. 28th Annual Conference on Neural Information 
 
 
 
-### **Conference abstracts**
+### **Conference Abstracts**
 
 - Simultaneous spectral scaling and basis material map reconstruction for spectral CT with photon-counting detectors.
 Emil Y Sidky, Taly Gilat Schmidt, Rina Foygel Barber, Wooseok Ha, and Xiaochuan Pan. 4th International Conference on Image Formation in X-ray Computed Tomography (_CT meeting 2016_).

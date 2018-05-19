@@ -30,6 +30,7 @@ Seoul National University
 ### **Preprints / Publications**
 
 - Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization. 
+    
     Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. submitted. arXiv:1805.00162
 
 - Alternating minimization and alternating descent over nonconvex sets. (Code.) 

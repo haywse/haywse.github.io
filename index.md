@@ -5,7 +5,7 @@ layout: default
 
 <img style="border: 0px solid ; width: 320px; height: 240px;" src="profile.jpg" alt="hi" class="inline">
 
-### **__About Me__**
+### **About Me**
 
 
 I am currently a fifth year PhD student in the Department of Statistics at the University of Chicago. 
@@ -30,7 +30,8 @@ Seoul National University
 ### **Preprints / Publications**
 
 - Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization. 
-Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. submitted. arXiv:1805.00162
+    
+    Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. submitted. arXiv:1805.00162
 
 - Alternating minimization and alternating descent over nonconvex sets. (Code.) 
 Wooseok Ha and Rina Foygel Barber. submitted. arXiv:1709.04451

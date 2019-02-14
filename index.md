@@ -27,6 +27,8 @@ My current research is centered on high-dimensional statistics and (non)convex o
 
 ### **Preprints / Publications**
 
+- An equivalence between stationary points for rank constraints versus low-rank factorizations. Wooseok Ha, Haoyang Liu, and Rina Foygel Barber. _submitted_. [arXiv:1812.00404](https://arxiv.org/abs/1812.00404)
+
 - [Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization.](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13257?elq_cid=11976044&elq_mid=33203)
 Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. _Medical Physics_. [arXiv:1805.00162](https://arxiv.org/abs/1805.00162). **Selected as Editor's Pick designation**
 

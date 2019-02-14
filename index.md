@@ -8,12 +8,10 @@ layout: default
 ### **About Me**
 
 
-I am currently a fifth year PhD student in the [Department of Statistics](http://galton.uchicago.edu/) at the [University of Chicago](https://www.uchicago.edu/).
-I am very happy to be advised by [Rina Foygel Barber](http://galton.uchicago.edu/~rina/). My research is supported by [Kwanjeong Fellowship](http://en.ikef.or.kr/).
+I am currently a Postdoctoral fellow at UC Berkeley's [Foundations of Data Analysis (FODA) Institute](https://foda.berkeley.edu/) and also a fellow at [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/). Previously, I did my PhD in Statistics at the [University of Chicago](http://galton.uchicago.edu/) where I was fortunate to be advised by [Rina Foygel Barber](http://galton.uchicago.edu/~rina/). My PhD research was supported by [Kwanjeong Fellowship](http://en.ikef.or.kr/).
 
 
-My current research is centered on high-dimensional statistics and (non)convex optimization.
-I also work on calibration and image reconstruction for medical imaging. I also look forward to exploring research in other areas of statistics and machine learning!
+My current research is centered on high-dimensional statistics and (non)convex optimization with a focus on sparse and low rank optimization, statistical inference, and local graph clustering. I am also interested in applications of statistical and optimization methods to diverse areas such as medical imaging, population genetics, and healthcare. I also look forward to exploring research in other areas of statistics and machine learning!
 
 
 ### **Education**
@@ -29,8 +27,8 @@ I also work on calibration and image reconstruction for medical imaging. I also 
 
 ### **Preprints / Publications**
 
-- Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization.
-Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. _submitted_. [arXiv:1805.00162](https://arxiv.org/abs/1805.00162)
+- [Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization.](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13257?elq_cid=11976044&elq_mid=33203)
+Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. _Medical Physics_. [arXiv:1805.00162](https://arxiv.org/abs/1805.00162). **Selected as Editor's Pick designation**
 
 - Alternating minimization and alternating descent over nonconvex sets. ([Code.](http://galton.uchicago.edu/~rina/code/altmin_simulation.R))
 Wooseok Ha and Rina Foygel Barber. _submitted_. [arXiv:1709.04451](https://arxiv.org/abs/1709.04451)
@@ -50,6 +48,8 @@ Wooseok Ha and Rina Foygel Barber. 28th Annual Conference on Neural Information 
 
 
 ### **Conference Abstracts**
+
+- Alternating minimization based framework for simultaneous spectral calibration and image reconstruction in spectral CT. Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. 2018 IEEE Nuclear Science Symposium and Medical Imaging Conference.
 
 - Simultaneous spectral scaling and basis material map reconstruction for spectral CT with photon-counting detectors.
 Emil Y Sidky, Taly Gilat Schmidt, Rina Foygel Barber, Wooseok Ha, and Xiaochuan Pan. 4th International Conference on Image Formation in X-ray Computed Tomography (_CT meeting 2016_).

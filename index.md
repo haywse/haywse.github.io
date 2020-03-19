@@ -21,7 +21,7 @@ My current research is centered on high-dimensional statistics, optimization wit
 * Advisor: [Rina Foygel Barber](http://galton.uchicago.edu/~rina/)
 
 [Seoul National University](http://en.snu.ac.kr/)
-* M.S., Statistics, 2013
+* M.S., Statistics, 2013 (Advisor: [Byeong U. Park](https://stat.snu.ac.kr/theostat/BUPark.htm))
 * B.S., Statistics, B.A., Economics, Minor in Mathematics, 2011
 
 

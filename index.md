@@ -26,9 +26,9 @@ My current research is centered on high-dimensional statistics, optimization wit
 
 
 ### **Preprints / Publications**
-- Transformation importance with applications to cosmology. Chandan Singh*, Wooseok Ha*, Francois Lanusse, Vanessa Boehm, Jia Liu, Bin Yu. _ICLR 2020 Workshop on Fundamental Science in the era of AI (Spotlight talk)_. [arXiv:2003.01926](https://arxiv.org/pdf/2003.01926.pdf)
+- Transformation importance with applications to cosmology. Chandan Singh\*, Wooseok Ha\*, Francois Lanusse, Vanessa Boehm, Jia Liu, Bin Yu. _ICLR 2020 Workshop on Fundamental Science in the era of AI (Spotlight talk)_. [arXiv:2003.01926](https://arxiv.org/pdf/2003.01926.pdf)
 
-- Statistical guarantees for local graph clustering. Wooseok Ha*, Kimon Fountoulakis*, Michael, W. Mahoney. 23rd International Conference on Artificial Intelligence and Statistics (_AISTATS 2020_). Journal version _submitted_. [arXiv:1906.04863](https://arxiv.org/pdf/1906.04863.pdf)
+- Statistical guarantees for local graph clustering. Wooseok Ha\*, Kimon Fountoulakis\*, Michael, W. Mahoney. 23rd International Conference on Artificial Intelligence and Statistics (_AISTATS 2020_). Journal version _submitted_. [arXiv:1906.04863](https://arxiv.org/pdf/1906.04863.pdf)
 
 - An equivalence between stationary points for rank constraints versus low-rank factorizations. Wooseok Ha, Haoyang Liu, and Rina Foygel Barber. _submitted_. [arXiv:1812.00404](https://arxiv.org/abs/1812.00404)
 

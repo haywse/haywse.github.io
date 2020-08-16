@@ -26,11 +26,13 @@ My current research is centered on high-dimensional statistics and optimization,
 
 
 ### **Preprints / Publications**
+- Fast and Flexible Estimation of Effective Migration Surfaces. (Code coming soon.) Joseph H. Marcus\*, Wooseok Ha\*, Rina Foygel Barber, John Novembre. [bioRXiv:2020.08.07.242214](https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1)
+
 - Transformation importance with applications to cosmology. Chandan Singh\*, Wooseok Ha\*, Francois Lanusse, Vanessa Boehm, Jia Liu, Bin Yu. _ICLR 2020 Workshop on Fundamental Science in the era of AI (Spotlight talk)_. [arXiv:2003.01926](https://arxiv.org/pdf/2003.01926.pdf)
 
 - Statistical guarantees for local graph clustering. Wooseok Ha\*, Kimon Fountoulakis\*, Michael, W. Mahoney. 23rd International Conference on Artificial Intelligence and Statistics (_AISTATS 2020_). Journal version _submitted_. [arXiv:1906.04863](https://arxiv.org/pdf/1906.04863.pdf)
 
-- An equivalence between stationary points for rank constraints versus low-rank factorizations. Wooseok Ha, Haoyang Liu, and Rina Foygel Barber. _submitted_. [arXiv:1812.00404](https://arxiv.org/abs/1812.00404)
+- An equivalence between critical points for rank constraints versus low-rank factorizations. Wooseok Ha, Haoyang Liu, and Rina Foygel Barber. _To appear in SIAM Journal on Optimization_. [arXiv:1812.00404](https://arxiv.org/abs/1812.00404)
 
 - [Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization.](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13257?elq_cid=11976044&elq_mid=33203)
 Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. _Medical Physics_. [arXiv:1805.00162](https://arxiv.org/abs/1805.00162). **Selected as Editor's Pick designation**

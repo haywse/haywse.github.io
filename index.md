@@ -3,7 +3,7 @@ title: Welcome
 layout: default
 ---
 
-<img style="border: 0px solid ; width: 320px; height: 240px;" src="profile.jpg" alt="hi" class="inline">
+<img style="border: 0px solid ; " src="profile.jpg" alt="hi" class="inline">
 
 ### **About Me**
 

@@ -26,7 +26,7 @@ My current research is centered on high-dimensional statistics and optimization,
 
 
 ### **Preprints / Publications**
-- Fast and Flexible Estimation of Effective Migration Surfaces. (Code coming soon.) Joseph H. Marcus\*, Wooseok Ha\*, Rina Foygel Barber, John Novembre. _Revision at eLife_. [bioRXiv:2020.08.07.242214](https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1)
+- Fast and Flexible Estimation of Effective Migration Surfaces. ([Package.](https://github.com/NovembreLab/feems), [Reproducible Code.](https://github.com/jhmarcus/feems-analysis)) Joseph H. Marcus\*, Wooseok Ha\*, Rina Foygel Barber, John Novembre. _Revision at eLife_. [bioRXiv:2020.08.07.242214](https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1)
 
 - Transformation importance with applications to cosmology. Chandan Singh\*, Wooseok Ha\*, Francois Lanusse, Vanessa Boehm, Jia Liu, Bin Yu. _ICLR 2020 Workshop on Fundamental Science in the era of AI (Spotlight talk)_. [arXiv:2003.01926](https://arxiv.org/pdf/2003.01926.pdf)
 

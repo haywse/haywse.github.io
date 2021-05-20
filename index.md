@@ -63,7 +63,7 @@ Emil Y Sidky, Taly Gilat Schmidt, Rina Foygel Barber, Wooseok Ha, and Xiaochuan 
 
 
 
-### **Teaching**
+### **Teaching at UC Berkeley**
 
 - STAT88: Probability and Mathematical Statistics in Data Science (Fall 2020).
 

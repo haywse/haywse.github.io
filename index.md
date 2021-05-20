@@ -34,6 +34,8 @@ My current research is centered on high-dimensional statistics and optimization,
 
 - [An equivalence between critical points for rank constraints versus low-rank factorizations.](https://epubs.siam.org/doi/abs/10.1137/18M1231675) Wooseok Ha, Haoyang Liu, and Rina Foygel Barber. _SIAM Journal on Optimization_. [arXiv:1812.00404](https://arxiv.org/abs/1812.00404)
 
+- [Alternating minimization based framework for simultaneous spectral calibration and image reconstruction in spectral CT.](https://ieeexplore.ieee.org/abstract/document/8824673/) Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. 2018 IEEE Nuclear Science Symposium and Medical Imaging Conference.
+
 - [Estimating the spectrum in computed tomography via Kullback-Leibler divergence constrained optimization.](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13257?elq_cid=11976044&elq_mid=33203)
 Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. _Medical Physics_. [arXiv:1805.00162](https://arxiv.org/abs/1805.00162). **Selected as Editor's Pick designation**
 
@@ -54,9 +56,7 @@ Wooseok Ha and Rina Foygel Barber. 28th Annual Conference on Neural Information 
 
 
 
-### **Conference Abstracts**
-
-- [Alternating minimization based framework for simultaneous spectral calibration and image reconstruction in spectral CT.](https://ieeexplore.ieee.org/abstract/document/8824673/) Wooseok Ha, Emil Y Sidky, Rina Foygel Barber, Taly Gilat Schmidt, and Xiaochuan pan. 2018 IEEE Nuclear Science Symposium and Medical Imaging Conference.
+### **Extended Abstracts**
 
 - Simultaneous spectral scaling and basis material map reconstruction for spectral CT with photon-counting detectors.
 Emil Y Sidky, Taly Gilat Schmidt, Rina Foygel Barber, Wooseok Ha, and Xiaochuan Pan. 4th International Conference on Image Formation in X-ray Computed Tomography (_CT meeting 2016_).

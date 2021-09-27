@@ -8,7 +8,7 @@ layout: default
 ### **About Me**
 
 
-I am currently a Neyman Visiting Assistant Professor in the [Department of Statistics](https://statistics.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/) hosted by [Bin Yu](https://www.stat.berkeley.edu/~binyu/Site/Welcome.html). Previously, I was a Postdoctoral fellow at UC Berkeley's [Foundations of Data Analysis (FODA) Institute](https://foda.berkeley.edu/) and also a fellow at [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/). Prior to that, I did my PhD in Statistics at the [University of Chicago](http://galton.uchicago.edu/) where I was fortunate to be advised by [Rina Foygel Barber](http://galton.uchicago.edu/~rina/). My PhD research was supported by [Kwanjeong Fellowship](http://en.ikef.or.kr/).
+I am currently a Postdoctoral fellow at UC Berkeley's [Foundations of Data Analysis (FODA) Institute](https://foda.berkeley.edu/). Previously, I was a Neyman Visiting Assistant Professor in the [Department of Statistics](https://statistics.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), hosted by [Bin Yu](https://www.stat.berkeley.edu/~binyu/Site/Welcome.html), and a Postdoctoral fellow at [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/). Prior to that, I did my PhD in Statistics at the [University of Chicago](http://galton.uchicago.edu/) where I was fortunate to be advised by [Rina Foygel Barber](http://galton.uchicago.edu/~rina/). My PhD research was supported by [Kwanjeong Fellowship](http://en.ikef.or.kr/).
 
 
 My current research is centered on high-dimensional statistics and optimization, with a focus on sparse and low rank optimization, local graph clustering, interpretable machine learning, and domain adaptation. I am particularly interested in applications of statistical and optimization methods to diverse scientific areas such as medical imaging, population genetics, and cosmology. I also look forward to exploring research in other areas of statistics and machine learning!
@@ -26,11 +26,15 @@ My current research is centered on high-dimensional statistics and optimization,
 
 
 ### **Preprints / Publications**
-- Fast and Flexible Estimation of Effective Migration Surfaces. ([Package.](https://github.com/NovembreLab/feems), [Reproducible Code.](https://github.com/jhmarcus/feems-analysis)) Joseph H. Marcus\*, Wooseok Ha\*, Rina Foygel Barber, John Novembre. _Revision at eLife_. [bioRXiv:2020.08.07.242214](https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1)
+- Interpreting and improving deep-learning models with reality checks. Chandan Singh\*, Wooseok Ha\*, Bin Yu. [arXiv:2108.06847](https://arxiv.org/pdf/2108.06847.pdf)
+
+- Adaptive wavelet distillation from neural networks through interpretations. Wooseok Ha, Chandan Singh, Francois Lanusse, Srigokul Upadhyayula, Bin Yu. [arXiv:2107.09145](https://arxiv.org/pdf/2107.09145.pdf)
+
+- [Fast and flexible estimation of effective migration surfaces.](https://elifesciences.org/articles/61927) ([Package.](https://github.com/NovembreLab/feems), [Reproducible Code.](https://github.com/jhmarcus/feems-analysis)) Joseph H. Marcus\*, Wooseok Ha\*, Rina Foygel Barber, John Novembre. _eLife_. [bioRXiv:2020.08.07.242214](https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1)
 
 - Transformation importance with applications to cosmology. Chandan Singh\*, Wooseok Ha\*, Francois Lanusse, Vanessa Boehm, Jia Liu, Bin Yu. _ICLR 2020 Workshop on Fundamental Science in the era of AI (Spotlight talk)_. [arXiv:2003.01926](https://arxiv.org/pdf/2003.01926.pdf)
 
-- Statistical guarantees for local graph clustering. Wooseok Ha\*, Kimon Fountoulakis\*, Michael, W. Mahoney. 23rd International Conference on Artificial Intelligence and Statistics (_AISTATS 2020_). Journal version _Accepted at Journal of Machine Learning Research_. [arXiv:1906.04863](https://arxiv.org/pdf/1906.04863.pdf)
+- [Statistical guarantees for local graph clustering.](https://www.jmlr.org/papers/volume22/20-029/20-029.pdf) Wooseok Ha\*, Kimon Fountoulakis\*, Michael, W. Mahoney. 23rd International Conference on Artificial Intelligence and Statistics (_AISTATS 2020_). Journal version _Journal of Machine Learning Research_. [arXiv:1906.04863](https://arxiv.org/pdf/1906.04863.pdf)
 
 - [An equivalence between critical points for rank constraints versus low-rank factorizations.](https://epubs.siam.org/doi/abs/10.1137/18M1231675) Wooseok Ha, Haoyang Liu, and Rina Foygel Barber. _SIAM Journal on Optimization_. [arXiv:1812.00404](https://arxiv.org/abs/1812.00404)
 

@@ -34,7 +34,7 @@ My research is centered on high-dimensional statistics and machine learning, wit
 
 - Interpreting and improving deep-learning models with reality checks. Chandan Singh\*, Wooseok Ha\*, Bin Yu. International Workshop on Extending Explainable AI Beyond Deep Models and Classifiers. [arXiv:2108.06847](https://arxiv.org/pdf/2108.06847.pdf)
 
-- Adaptive wavelet distillation from neural networks through interpretations. Wooseok Ha, Chandan Singh, Francois Lanusse, Srigokul Upadhyayula, Bin Yu. 34th Annual Conference on Neural Information Processing Systems (_Neurips 2021_). [arXiv:2107.09145](https://arxiv.org/pdf/2107.09145.pdf)
+- [Adaptive wavelet distillation from neural networks through interpretations.](https://proceedings.neurips.cc/paper/2021/file/acaa23f71f963e96c8847585e71352d6-Paper.pdf) ([Package.](https://github.com/Yu-Group/adaptive-wavelets)) Wooseok Ha, Chandan Singh, Francois Lanusse, Srigokul Upadhyayula, Bin Yu. 34th Annual Conference on Neural Information Processing Systems (_Neurips 2021_). [arXiv:2107.09145](https://arxiv.org/pdf/2107.09145.pdf)
 
 - [Fast and flexible estimation of effective migration surfaces.](https://elifesciences.org/articles/61927) ([Package.](https://github.com/NovembreLab/feems), [Reproducible Code.](https://github.com/jhmarcus/feems-analysis)) Joseph H. Marcus\*, Wooseok Ha\*, Rina Foygel Barber, John Novembre. _eLife_. [bioRXiv:2020.08.07.242214](https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1)
 

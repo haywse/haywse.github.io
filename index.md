@@ -8,10 +8,10 @@ layout: default
 ### **About Me**
 
 
-I am currently a Postdoctoral fellow at UC Berkeley's [Foundations of Data Analysis (FODA) Institute](https://foda.berkeley.edu/), where I am fortunate to be advised by [Bin Yu](https://www.stat.berkeley.edu/~binyu/Site/Welcome.html). Previously, I was a Neyman Visiting Assistant Professor in the [Department of Statistics](https://statistics.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), and a Postdoctoral fellow at [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/). Prior to that, I did my PhD in Statistics at the [University of Chicago](http://galton.uchicago.edu/) where I was fortunate to be advised by [Rina Foygel Barber](http://galton.uchicago.edu/~rina/). My PhD research was supported by [Kwanjeong Fellowship](http://en.ikef.or.kr/).
+I am currently a ML scientist at AWS AI Labs. Previously, I was a Neyman Visiting Assistant Professor in the [Department of Statistics](https://statistics.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I was very fortunate to be supervised by [Bin Yu](https://www.stat.berkeley.edu/~binyu/Site/Welcome.html). Prior to that, I was a Postdoctoral fellow at UC Berkeley's [Foundations of Data Analysis (FODA) Institute](https://foda.berkeley.edu/) and [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/). I obtained my PhD in Statistics at the [University of Chicago](http://galton.uchicago.edu/) where I was very fortunate to be advised by [Rina Foygel Barber](http://galton.uchicago.edu/~rina/). My PhD research was supported by [Kwanjeong Fellowship](http://en.ikef.or.kr/).
 
 
-My current research is centered on high-dimensional statistics and optimization, with a focus on sparse and low rank optimization, local graph clustering, interpretable machine learning, and domain adaptation. I am particularly interested in applications of statistical and optimization methods to diverse scientific areas such as medical imaging, population genetics, and cosmology. I also look forward to exploring research in other areas of statistics and machine learning!
+My research is centered on high-dimensional statistics and machine learning, with a focus on sparse and low rank optimization, local graph clustering, interpretable machine learning, and domain adaptation. I am particularly interested in the applications of statistical and optimization methods to diverse scientific areas such as medical imaging, population genetics, and cosmology. I also look forward to exploring research in other areas of statistics and machine learning!
 
 
 ### **Education**
@@ -26,9 +26,15 @@ My current research is centered on high-dimensional statistics and optimization,
 
 
 ### **Preprints / Publications**
-- Interpreting and improving deep-learning models with reality checks. Chandan Singh\*, Wooseok Ha\*, Bin Yu. [arXiv:2108.06847](https://arxiv.org/pdf/2108.06847.pdf)
+- Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms. Keru Wu\*, Yuansi Chen\*, Wooseok Ha\*, Bin Yu. [arXiv:2309.10301](https://arxiv.org/pdf/2309.10301.pdf)
 
-- Adaptive wavelet distillation from neural networks through interpretations. Wooseok Ha, Chandan Singh, Francois Lanusse, Srigokul Upadhyayula, Bin Yu. [arXiv:2107.09145](https://arxiv.org/pdf/2107.09145.pdf)
+- The effect of SGD batch size on autoencoder learning: sparsity, sharpness, and feature learning. Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. [arXiv:2308.03215](https://arxiv.org/pdf/2308.03215.pdf)
+
+- Gradient dynamics of single-neuron autoencoders on orthogonal data. Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. OPT 2022: Optimization for Machine Learning (_NeurIPS 2022 Workshop_).
+
+- Interpreting and improving deep-learning models with reality checks. Chandan Singh\*, Wooseok Ha\*, Bin Yu. International Workshop on Extending Explainable AI Beyond Deep Models and Classifiers. [arXiv:2108.06847](https://arxiv.org/pdf/2108.06847.pdf)
+
+- Adaptive wavelet distillation from neural networks through interpretations. Wooseok Ha, Chandan Singh, Francois Lanusse, Srigokul Upadhyayula, Bin Yu. 34th Annual Conference on Neural Information Processing Systems (_Neurips 2021_). [arXiv:2107.09145](https://arxiv.org/pdf/2107.09145.pdf)
 
 - [Fast and flexible estimation of effective migration surfaces.](https://elifesciences.org/articles/61927) ([Package.](https://github.com/NovembreLab/feems), [Reproducible Code.](https://github.com/jhmarcus/feems-analysis)) Joseph H. Marcus\*, Wooseok Ha\*, Rina Foygel Barber, John Novembre. _eLife_. [bioRXiv:2020.08.07.242214](https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1)
 

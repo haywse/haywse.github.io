@@ -8,11 +8,10 @@ layout: default
 ### **About Me**
 
 
-I am currently a ML scientist at AWS AI Labs. Previously, I was a Neyman Visiting Assistant Professor in the [Department of Statistics](https://statistics.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I was very fortunate to be supervised by [Bin Yu](https://www.stat.berkeley.edu/~binyu/Site/Welcome.html). Prior to that, I was a Postdoctoral fellow at UC Berkeley's [Foundations of Data Analysis (FODA) Institute](https://foda.berkeley.edu/) and [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/). I obtained my PhD in Statistics at the [University of Chicago](http://galton.uchicago.edu/) where I was very fortunate to be advised by [Rina Foygel Barber](http://galton.uchicago.edu/~rina/). My PhD research was supported by [Kwanjeong Fellowship](http://en.ikef.or.kr/).
+I am currently an assistant professor in the [Department of Mathematical Sciences](https://mathsci.kaist.ac.kr/home/en/) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). Previously, I was a ML scientist at AWS AI Labs and before that I was a Neyman Visiting Assistant Professor in the [Department of Statistics](https://statistics.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/), where I was very fortunate to be supervised by [Bin Yu](https://www.stat.berkeley.edu/~binyu/Site/Welcome.html). Prior to that, I was a Postdoctoral fellow at UC Berkeley's [Foundations of Data Analysis (FODA) Institute](https://foda.berkeley.edu/) and [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/). I obtained my PhD in Statistics at the [University of Chicago](http://galton.uchicago.edu/) where I was very fortunate to be advised by [Rina Foygel Barber](http://galton.uchicago.edu/~rina/). My PhD research was supported by [Kwanjeong Fellowship](http://en.ikef.or.kr/).
 
 
-My research is centered on high-dimensional statistics and machine learning, with a focus on sparse and low rank optimization, local graph clustering, interpretable machine learning, and domain adaptation. I am particularly interested in the applications of statistical and optimization methods to diverse scientific areas such as medical imaging, population genetics, and cosmology. I also look forward to exploring research in other areas of statistics and machine learning!
-
+My research is centered on high-dimensional statistics and machine learning, with a focus on sparse and low rank optimization, local graph clustering, and interpretable machine learning, and domain adaptation under distribution shifts. I am also interested in the applications of statistical and optimization methods to diverse scientific areas such as medical imaging, population genetics, and cosmology. 
 
 ### **Education**
 
@@ -26,9 +25,11 @@ My research is centered on high-dimensional statistics and machine learning, wit
 
 
 ### **Preprints / Publications**
-- Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms. Keru Wu\*, Yuansi Chen\*, Wooseok Ha\*, Bin Yu. [arXiv:2309.10301](https://arxiv.org/pdf/2309.10301.pdf)
+- Variance-reduced zeroth-order methods for fine-tuning language models. Tanmay Gautam, Youngsuk Park, Hao Zhou, Parameswaran Raman, and Wooseok Ha. Accepted at the 41st International Conference on Machine Learning (_ICML 2024_). [arXiv:2404.08080](https://arxiv.org/abs/2404.08080). 
 
-- The effect of SGD batch size on autoencoder learning: sparsity, sharpness, and feature learning. Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. [arXiv:2308.03215](https://arxiv.org/pdf/2308.03215.pdf)
+- Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms. Keru Wu\*, Yuansi Chen\*, Wooseok Ha\*, Bin Yu. [arXiv:2309.10301](https://arxiv.org/pdf/2309.10301.pdf). Submitted.
+
+- The effect of SGD batch size on autoencoder learning: sparsity, sharpness, and feature learning. Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. [arXiv:2308.03215](https://arxiv.org/pdf/2308.03215.pdf). Submitted.
 
 - Gradient dynamics of single-neuron autoencoders on orthogonal data. Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. OPT 2022: Optimization for Machine Learning (_NeurIPS 2022 Workshop_).
 
@@ -74,6 +75,8 @@ Emil Y Sidky, Taly Gilat Schmidt, Rina Foygel Barber, Wooseok Ha, and Xiaochuan 
 
 
 ### **Teaching at UC Berkeley**
+
+- MAS555/DS512: Advanced Statistics (Spring 2024).
 
 - STAT88: Probability and Mathematical Statistics in Data Science (Fall 2020).
 

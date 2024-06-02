@@ -74,10 +74,10 @@ Emil Y Sidky, Taly Gilat Schmidt, Rina Foygel Barber, Wooseok Ha, and Xiaochuan 
 
 
 
-### **Teaching at UC Berkeley**
+### **Teaching**
 
-- MAS555/DS512: Advanced Statistics (Spring 2024).
+- MAS555/DS512: Advanced Statistics (Spring 2024) at KAIST.
 
-- STAT88: Probability and Mathematical Statistics in Data Science (Fall 2020).
+- STAT88: Probability and Mathematical Statistics in Data Science (Fall 2020) at UC Berkeley.
 
-- STAT158: Design and Analysis of Experiments (Spring 2020).
+- STAT158: Design and Analysis of Experiments (Spring 2020) at UC Berkeley.

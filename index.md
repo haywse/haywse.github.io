@@ -27,7 +27,7 @@ My research is centered on high-dimensional statistics and machine learning, wit
 ### **Preprints / Publications**
 - Variance-reduced zeroth-order methods for fine-tuning language models. Tanmay Gautam, Youngsuk Park, Hao Zhou, Parameswaran Raman, and Wooseok Ha. Accepted at the 41st International Conference on Machine Learning (_ICML 2024_). [arXiv:2404.08080](https://arxiv.org/abs/2404.08080). 
 
-- Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms. Keru Wu\*, Yuansi Chen\*, Wooseok Ha\*, Bin Yu. [arXiv:2309.10301](https://arxiv.org/pdf/2309.10301.pdf). Accepted at _Journal of Machine Learning Research_ after minor revision.
+- Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms. ([Reproducible Code.](https://github.com/KeruWu/Roles_CICs)) Keru Wu\*, Yuansi Chen\*, Wooseok Ha\*, Bin Yu. [arXiv:2309.10301](https://arxiv.org/pdf/2309.10301.pdf). Accepted at _Journal of Machine Learning Research_ after minor revision.
 
 - The effect of SGD batch size on autoencoder learning: sparsity, sharpness, and feature learning. Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. [arXiv:2308.03215](https://arxiv.org/pdf/2308.03215.pdf). Accepted at _Journal of Machine Learning Research_.
 

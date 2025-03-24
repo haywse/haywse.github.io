@@ -1,7 +1,7 @@
 
 title: "Wooseok Ha"
 author: "Wooseok Ha"
-description: "Korea dvanced Institute of Science & Technology (KAIST)"
+# description: "Korea dvanced Institute of Science & Technology (KAIST)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

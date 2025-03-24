@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haywse.github.io/sitemap.xml

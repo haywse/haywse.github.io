@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "About me"
 ---
 
 <img style="border: 0px solid ; width: 225px; height: 274px;" src="profile.jpg" alt="hi" class="inline">

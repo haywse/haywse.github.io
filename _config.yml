@@ -1,7 +1,7 @@
 
 title: "Wooseok Ha"
 author: "Wooseok Ha"
-# description: "Korea dvanced Institute of Science & Technology (KAIST)"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -24,9 +24,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "visuals.md", title: Visuals}
 
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:yu@ese.eur.nl"}
-  - {title: Github, icon: github, url: "https://github.com/jaeyoonyu"}
+# external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+#   - {title: Mail, icon: envelope, url: "mailto:yu@ese.eur.nl"}
+#   - {title: Github, icon: github, url: "https://github.com/jaeyoonyu"}
 
 remote_theme: niklasbuschmann/contrast@v2.11
 # remote_theme: jekyll/minima@1e8a445

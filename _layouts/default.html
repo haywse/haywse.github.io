@@ -39,7 +39,13 @@
 
   <!-- 왼쪽: external 아이콘들 -->
   <div>
-    {% include menu.html menu=site.external %}
+    {% if site.external %}
+      {% for link in site.external %}
+        <a href="{{ link.url }}" title="{{ link.title }}" style="margin-right: 10px;" target="_blank">
+          <i class="fa fa-{{ link.icon }}"></i>
+        </a>
+      {% endfor %}
+    {% endif %}
   </div>
 
 </footer>

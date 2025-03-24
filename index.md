@@ -22,4 +22,4 @@ My research is centered on high-dimensional statistics and machine learning, wit
 ### **Contact**
 Email: [haywse@kaist.ac.kr](mailto: haywse@kaist.ac.kr)
 
-✳️ For Prospective Students: If you are looking for a thesis topic or research opportunity, check out my [Google Scholar](https://scholar.google.com/citations?user=bpuC6FEAAAAJ&hl=en) or [GitHub repo](https://github.com/haywse) to see if any of the topics might be a good fit. My current research interests include statistical learning under distribution shifts (such as domain adaptation and transfer learning), graph neural networks, and applications with generative models.  
+▸ **For Prospective Students:** If you are looking for a thesis topic or research opportunity, check out my [Google Scholar](https://scholar.google.com/citations?user=bpuC6FEAAAAJ&hl=en) or [GitHub repo](https://github.com/haywse) to see if any of the topics might be a good fit. My current research interests include statistical learning under distribution shifts (such as domain adaptation and transfer learning), graph neural networks, and applications with generative models.  

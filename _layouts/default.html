@@ -35,19 +35,9 @@
 {{ content }}
 
 {% if site.external %}
-<footer style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-
-  <!-- 왼쪽: external 아이콘들 -->
-  <div>
-    {% if site.external %}
-      {% for link in site.external %}
-        <a href="{{ link.url }}" title="{{ link.title }}" style="margin-right: 10px;" target="_blank">
-          <i class="fa fa-{{ link.icon }}"></i>
-        </a>
-      {% endfor %}
-    {% endif %}
-  </div>
-
+<footer>
+  <div>{{ site.description | default: site.title }}</div>
+  {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
 

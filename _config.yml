@@ -28,14 +28,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #   - {title: Mail, icon: envelope, url: "mailto:yu@ese.eur.nl"}
 #   - {title: Github, icon: github, url: "https://github.com/jaeyoonyu"}
 
-# remote_theme: niklasbuschmann/contrast@v2.11
+remote_theme: niklasbuschmann/contrast@v2.11
 # remote_theme: jekyll/minima@1e8a445
-remote_theme: jekyll/minima@latest
+# remote_theme: jekyll/minima@latest
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-include-cache
+  # - jekyll-include-cache
   - jekyll-gist

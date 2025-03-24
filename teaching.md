@@ -2,11 +2,13 @@
 layout: page
 ---
 
-### **Teaching**
+### **At KAIST**
 
-- MAS555/DS512: Advanced Statistics (Spring 2024) at KAIST.
+- MAS555/DS512: Advanced Statistics (Spring 2024).
 
-- STAT88: Probability and Mathematical Statistics in Data Science (Fall 2020) at UC Berkeley.
+### **At UC Berkeley**
 
-- STAT158: Design and Analysis of Experiments (Spring 2020) at UC Berkeley.
+- STAT88: Probability and Mathematical Statistics in Data Science (Fall 2020).
+
+- STAT158: Design and Analysis of Experiments (Spring 2020).
     

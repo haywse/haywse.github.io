@@ -13,7 +13,7 @@ My research is centered on high-dimensional statistics and machine learning, wit
 ### **Education**
 [The University of Chicago](https://www.uchicago.edu/)
 * Ph.D. in Statistics, 2018
-* Advisor: [Rina Foygel Barber](http://galton.uchicago.edu/~rina/)
+* Advisor: [Rina Foygel Barber](https://rinafb.github.io/)
 
 [Seoul National University](http://en.snu.ac.kr/)
 * M.S., Statistics, 2013 (Advisor: [Byeong U. Park](https://stat.snu.ac.kr/theostat/BUPark.htm))

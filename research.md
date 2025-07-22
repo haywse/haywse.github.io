@@ -4,13 +4,15 @@ title: Research
 ---
 
 ### **Preprints / Publications**
-- Variance-reduced zeroth-order methods for fine-tuning language models. Tanmay Gautam, Youngsuk Park, Hao Zhou, Parameswaran Raman, and Wooseok Ha. Accepted at the 41st International Conference on Machine Learning (_ICML 2024_). [arXiv:2404.08080](https://arxiv.org/abs/2404.08080). 
+- When few labeled target data suffice: a theory of semi-supervised domain adaptation via fine-tuning from multiple adaptive starts. Wooseok Ha and Yuansi Chen. [arXiv:2507.14661](https://arxiv.org/pdf/2507.14661.pdf)
 
-- Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms. ([Reproducible Code.](https://github.com/KeruWu/Roles_CICs)) Keru Wu\*, Yuansi Chen\*, Wooseok Ha\*, Bin Yu. [arXiv:2309.10301](https://arxiv.org/pdf/2309.10301.pdf). Accepted at _Journal of Machine Learning Research_.
+- [Variance-reduced zeroth-order methods for fine-tuning language models.](https://proceedings.mlr.press/v235/gautam24a.html) Tanmay Gautam, Youngsuk Park, Hao Zhou, Parameswaran Raman, and Wooseok Ha. Accepted at the 41st International Conference on Machine Learning (_ICML 2024_). [arXiv:2404.08080](https://arxiv.org/abs/2404.08080). 
 
-- [The effect of SGD batch size on autoencoder learning: sparsity, sharpness, and feature learning.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.jmlr.org/papers/volume26/23-1022/23-1022.pdf) Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. [arXiv:2308.03215](https://arxiv.org/pdf/2308.03215.pdf).  _Journal of Machine Learning Research_.
+- [Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms.](https://www.jmlr.org/papers/volume26/23-1234/23-1234.pdf) ([Reproducible Code.](https://github.com/KeruWu/Roles_CICs)) Keru Wu\*, Yuansi Chen\*, Wooseok Ha\*, Bin Yu. [arXiv:2309.10301](https://arxiv.org/pdf/2309.10301.pdf). _Journal of Machine Learning Research_.
 
-- Gradient dynamics of single-neuron autoencoders on orthogonal data. Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. OPT 2022: Optimization for Machine Learning (_NeurIPS 2022 Workshop_).
+- [The effect of SGD batch size on autoencoder learning: sparsity, sharpness, and feature learning.](https://www.jmlr.org/papers/volume26/23-1022/23-1022.pdf) Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. [arXiv:2308.03215](https://arxiv.org/pdf/2308.03215.pdf). _Journal of Machine Learning Research_.
+
+- [Gradient dynamics of single-neuron autoencoders on orthogonal data.](https://openreview.net/pdf?id=oPBnpIGOcBy) Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. OPT 2022: Optimization for Machine Learning (_NeurIPS 2022 Workshop_).
 
 - Interpreting and improving deep-learning models with reality checks. Chandan Singh\*, Wooseok Ha\*, Bin Yu. International Workshop on Extending Explainable AI Beyond Deep Models and Classifiers. [arXiv:2108.06847](https://arxiv.org/pdf/2108.06847.pdf)
 

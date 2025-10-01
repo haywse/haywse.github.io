@@ -4,9 +4,13 @@ title: Research
 ---
 
 ### **Preprints / Publications**
+- Distributionally robust classification for multi-source unsupervised domain adaptation. Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae.  _Submitted_.
+
+- Estimating structural shifts in graph domain adaptation via pairwise likelihood maximization. Huiyun Noh and Wooseok Ha. _Submitted_.
+
 - When few labeled target data suffice: a theory of semi-supervised domain adaptation via fine-tuning from multiple adaptive starts. Wooseok Ha and Yuansi Chen. [arXiv:2507.14661](https://arxiv.org/pdf/2507.14661.pdf)
 
-- [Variance-reduced zeroth-order methods for fine-tuning language models.](https://proceedings.mlr.press/v235/gautam24a.html) Tanmay Gautam, Youngsuk Park, Hao Zhou, Parameswaran Raman, and Wooseok Ha. Accepted at the 41st International Conference on Machine Learning (_ICML 2024_). [arXiv:2404.08080](https://arxiv.org/abs/2404.08080). 
+- [Variance-reduced zeroth-order methods for fine-tuning language models.](https://proceedings.mlr.press/v235/gautam24a.html) Tanmay Gautam, Youngsuk Park, Hao Zhou, Parameswaran Raman, and Wooseok Ha. 41st International Conference on Machine Learning (_ICML 2024_). [arXiv:2404.08080](https://arxiv.org/abs/2404.08080). 
 
 - [Prominent roles of conditionally invariant components in domain adaptation: theory and algorithms.](https://www.jmlr.org/papers/volume26/23-1234/23-1234.pdf) ([Reproducible Code.](https://github.com/KeruWu/Roles_CICs)) Keru Wu\*, Yuansi Chen\*, Wooseok Ha\*, Bin Yu. [arXiv:2309.10301](https://arxiv.org/pdf/2309.10301.pdf). _Journal of Machine Learning Research_.
 
@@ -44,7 +48,7 @@ Wooseok Ha, Emil Y Sidky and Rina Foygel Barber. _Proceedings of the SPIE confer
 Wenyu Chen, Zhaokai Wang, Wooseok Ha, Rina Foygel Barber. [arXiv:1611.09933](https://arxiv.org/abs/1611.09933)
 
 - [Robust PCA with compressed data.](http://papers.nips.cc/paper/5705-robust-pca-with-compressed-data)
-Wooseok Ha and Rina Foygel Barber. 28th Annual Conference on Neural Information Processing Systems (_NIPS 2015_).
+Wooseok Ha and Rina Foygel Barber. 28th Annual Conference on Neural Information Processing Systems (_NeurIPS 2015_).
 
 
 

@@ -5,6 +5,8 @@ title: Teaching
 
 ### **At KAIST**
 
+- MAS473: Introduction to AI with Mathematics (Fall 2025).
+
 - MAS250: Probability and Statistics (Spring 2025).
 
 - MAS355: Mathematical Statistics (Fall 2024).

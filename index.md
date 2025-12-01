@@ -27,3 +27,5 @@ My research is centered on high-dimensional statistics and machine learning, wit
 Email: [haywse@kaist.ac.kr](mailto: haywse@kaist.ac.kr)
 
 ▸ For Prospective Students: If you are looking for a thesis topic or research opportunity, check out my [Google Scholar](https://scholar.google.com/citations?user=bpuC6FEAAAAJ&hl=en) or [GitHub repo](https://github.com/haywse) to see if any of the topics might be a good fit. My current interests include statistical learning under distribution shifts (such as domain adaptation and out-of-distribution generalization), graph neural networks, and applications with generative models.  
+
+▸ If you are interested in joining the newly launched "Glocal Lab" project---a joint initiative between **KAIST Mathematical Sciences** and the **Colleges of Pharmacy at Chungnam National University and Seoul National University**---focusing on AI-driven drug discovery and biohealth innovation, please contact me. We welcome undergraduate and graduate students eager to apply statistics, machine learning, and data science to real-world biohealth problems.

@@ -4,13 +4,11 @@ title: Research
 ---
 
 ### **Preprints / Publications**
-- Imperfect alignment, reliable similarity: a gradient-flow analysis of multimodal contrastive learning. -Submitted_.
+- Imperfect alignment, reliable similarity: a gradient-flow analysis of multimodal contrastive learning. Seongje Hong and Wooseok Ha.  _Submitted_.
 
 - A unified pairwise distribution matching framework for graph domain adaptation under structure shift. Huiyun Noh and Wooseok Ha. _Submitted_.
 
-- [Distributionally robust classification for multi-source unsupervised domain adaptation.](https://openreview.net/pdf?id=RyAyH8ufGu) Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae. 14th International Conference on Learning Representations ( _Submitted_).
-
-- A unified pairwise distribution matching framework for graph domain adaptation under structure shift. Huiyun Noh and Wooseok Ha. _Submitted_.
+- [Distributionally robust classification for multi-source unsupervised domain adaptation.](https://openreview.net/pdf?id=RyAyH8ufGu) Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae. 14th International Conference on Learning Representations ( _ICLR 2026_).
 
 - When few labeled target data suffice: a theory of semi-supervised domain adaptation via fine-tuning from multiple adaptive starts. Wooseok Ha and Yuansi Chen. [arXiv:2507.14661](https://arxiv.org/pdf/2507.14661.pdf).  _Submitted_.
 

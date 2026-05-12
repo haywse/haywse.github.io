@@ -4,11 +4,15 @@ title: Research
 ---
 
 ### **Preprints / Publications**
-- Distributionally robust classification for multi-source unsupervised domain adaptation. Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae.  _Submitted_.
+- Imperfect alignment, reliable similarity: a gradient-flow analysis of multimodal contrastive learning. -Submitted_.
 
-- Estimating structural shifts in graph domain adaptation via pairwise likelihood maximization. Huiyun Noh and Wooseok Ha. _Submitted_.
+- A unified pairwise distribution matching framework for graph domain adaptation under structure shift. Huiyun Noh and Wooseok Ha. _Submitted_.
 
-- When few labeled target data suffice: a theory of semi-supervised domain adaptation via fine-tuning from multiple adaptive starts. Wooseok Ha and Yuansi Chen. [arXiv:2507.14661](https://arxiv.org/pdf/2507.14661.pdf)
+- [Distributionally robust classification for multi-source unsupervised domain adaptation.](https://openreview.net/pdf?id=RyAyH8ufGu) Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae. 14th International Conference on Learning Representations ( _Submitted_).
+
+- A unified pairwise distribution matching framework for graph domain adaptation under structure shift. Huiyun Noh and Wooseok Ha. _Submitted_.
+
+- When few labeled target data suffice: a theory of semi-supervised domain adaptation via fine-tuning from multiple adaptive starts. Wooseok Ha and Yuansi Chen. [arXiv:2507.14661](https://arxiv.org/pdf/2507.14661.pdf).  _Submitted_.
 
 - [Variance-reduced zeroth-order methods for fine-tuning language models.](https://proceedings.mlr.press/v235/gautam24a.html) Tanmay Gautam, Youngsuk Park, Hao Zhou, Parameswaran Raman, and Wooseok Ha. 41st International Conference on Machine Learning (_ICML 2024_). [arXiv:2404.08080](https://arxiv.org/abs/2404.08080). 
 

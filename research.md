@@ -8,7 +8,7 @@ title: Research
 
 - A unified pairwise distribution matching framework for graph domain adaptation under structure shift. Huiyun Noh and Wooseok Ha. _Submitted_.
 
-- [Distributionally robust classification for multi-source unsupervised domain adaptation.](https://openreview.net/pdf?id=RyAyH8ufGu) Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae. [arXiv:2601.21315](https://arxiv.org/abs/2601.21315) 14th International Conference on Learning Representations ( _ICLR 2026_).
+- [Distributionally robust classification for multi-source unsupervised domain adaptation.](https://openreview.net/pdf?id=RyAyH8ufGu) Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae. [arXiv:2601.21315](https://arxiv.org/abs/2601.21315) 14th International Conference on Learning Representations (_ICLR 2026_).
 
 - When few labeled target data suffice: a theory of semi-supervised domain adaptation via fine-tuning from multiple adaptive starts. Wooseok Ha and Yuansi Chen. [arXiv:2507.14661](https://arxiv.org/pdf/2507.14661.pdf).  _Submitted_.
 

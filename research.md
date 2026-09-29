@@ -4,9 +4,15 @@ title: Research
 ---
 
 ### **Preprints / Publications**
-- Imperfect alignment, reliable similarity: a gradient-flow analysis of multimodal contrastive learning. Seongje Hong and Wooseok Ha.  _Submitted_.
+- Draw the graph, draw the negatives: a local sampling framework for contrastive estimation. Yeongchan Yun and Wooseok Ha. _Submitted_.
 
-- A unified pairwise distribution matching framework for graph domain adaptation under structure shift. Huiyun Noh and Wooseok Ha. _Submitted_.
+- Statistical guarantees for multimodal contrastive learning via pointwise mutual information estimation. Wooseok Ha, Tongseok Lim, and Kyeongsik Nam (α-β). _Submitted_.
+
+- Silver steps beyond convexity: accelerated convergence for low-rank matrix recovery. Minseok Kang\*, Jungmin Kwon\*, Yongjun Cho\*, and Wooseok Ha. _Submitted_.
+
+- Imperfect alignment, reliable similarity: score–encoder separation in multimodal contrastive learning. Seongje Hong and Wooseok Ha. _Submitted_.
+
+- A unified pairwise distribution matching framework for graph domain adaptation under structure shift. Huiyun Noh and Wooseok Ha. 40th Annual Conference on Neural Information Processing Systems (_NeurIPS 2026_).
 
 - [Distributionally robust classification for multi-source unsupervised domain adaptation.](https://openreview.net/pdf?id=RyAyH8ufGu) Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae. 14th International Conference on Learning Representations (_ICLR 2026_). [arXiv:2601.21315](https://arxiv.org/abs/2601.21315).
 
@@ -22,7 +28,7 @@ title: Research
 
 - Interpreting and improving deep-learning models with reality checks. Chandan Singh\*, Wooseok Ha\*, Bin Yu. International Workshop on Extending Explainable AI Beyond Deep Models and Classifiers. [arXiv:2108.06847](https://arxiv.org/pdf/2108.06847.pdf)
 
-- [Adaptive wavelet distillation from neural networks through interpretations.](https://proceedings.neurips.cc/paper/2021/file/acaa23f71f963e96c8847585e71352d6-Paper.pdf) ([Package.](https://github.com/Yu-Group/adaptive-wavelets)) Wooseok Ha, Chandan Singh, Francois Lanusse, Srigokul Upadhyayula, Bin Yu. 34th Annual Conference on Neural Information Processing Systems (_Neurips 2021_). [arXiv:2107.09145](https://arxiv.org/pdf/2107.09145.pdf)
+- [Adaptive wavelet distillation from neural networks through interpretations.](https://proceedings.neurips.cc/paper/2021/file/acaa23f71f963e96c8847585e71352d6-Paper.pdf) ([Package.](https://github.com/Yu-Group/adaptive-wavelets)) Wooseok Ha, Chandan Singh, Francois Lanusse, Srigokul Upadhyayula, Bin Yu. 35th Annual Conference on Neural Information Processing Systems (_NeurIPS 2021_). [arXiv:2107.09145](https://arxiv.org/pdf/2107.09145.pdf)
 
 - [Fast and flexible estimation of effective migration surfaces.](https://elifesciences.org/articles/61927) ([Package.](https://github.com/NovembreLab/feems), [Reproducible Code.](https://github.com/jhmarcus/feems-analysis)) Joseph H. Marcus\*, Wooseok Ha\*, Rina Foygel Barber, John Novembre. _eLife_. [bioRXiv:2020.08.07.242214](https://www.biorxiv.org/content/10.1101/2020.08.07.242214v1)
 
@@ -50,7 +56,7 @@ Wooseok Ha, Emil Y Sidky and Rina Foygel Barber. _Proceedings of the SPIE confer
 Wenyu Chen, Zhaokai Wang, Wooseok Ha, Rina Foygel Barber. [arXiv:1611.09933](https://arxiv.org/abs/1611.09933)
 
 - [Robust PCA with compressed data.](http://papers.nips.cc/paper/5705-robust-pca-with-compressed-data)
-Wooseok Ha and Rina Foygel Barber. 28th Annual Conference on Neural Information Processing Systems (_NeurIPS 2015_).
+Wooseok Ha and Rina Foygel Barber. 29th Annual Conference on Neural Information Processing Systems (_NeurIPS 2015_).
 
 
 

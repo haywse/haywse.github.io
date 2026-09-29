@@ -12,7 +12,7 @@ title: Research
 
 - Imperfect alignment, reliable similarity: score–encoder separation in multimodal contrastive learning. Seongje Hong and Wooseok Ha. _Submitted_.
 
-- A unified pairwise distribution matching framework for graph domain adaptation under structure shift. Huiyun Noh and Wooseok Ha. 40th Annual Conference on Neural Information Processing Systems (_NeurIPS 2026_).
+- A unified pairwise distribution matching framework for graph domain adaptation under structure shift. Huiyun Noh and Wooseok Ha. _Accepted to NeurIPS 2026_.
 
 - [Distributionally robust classification for multi-source unsupervised domain adaptation.](https://openreview.net/pdf?id=RyAyH8ufGu) Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae. 14th International Conference on Learning Representations (_ICLR 2026_). [arXiv:2601.21315](https://arxiv.org/abs/2601.21315).
 
@@ -26,7 +26,7 @@ title: Research
 
 - [Gradient dynamics of single-neuron autoencoders on orthogonal data.](https://openreview.net/pdf?id=oPBnpIGOcBy) Nikhil Ghosh, Spencer Frei, Wooseok Ha, Bin Yu. OPT 2022: Optimization for Machine Learning (_NeurIPS 2022 Workshop_).
 
-- Interpreting and improving deep-learning models with reality checks. Chandan Singh\*, Wooseok Ha\*, Bin Yu. International Workshop on Extending Explainable AI Beyond Deep Models and Classifiers. [arXiv:2108.06847](https://arxiv.org/pdf/2108.06847.pdf)
+- [Interpreting and improving deep-learning models with reality checks.](https://link.springer.com/chapter/10.1007/978-3-031-04083-2_12) Chandan Singh\*, Wooseok Ha\*, Bin Yu. International Workshop on Extending Explainable AI Beyond Deep Models and Classifiers. [arXiv:2108.06847](https://arxiv.org/pdf/2108.06847.pdf)
 
 - [Adaptive wavelet distillation from neural networks through interpretations.](https://proceedings.neurips.cc/paper/2021/file/acaa23f71f963e96c8847585e71352d6-Paper.pdf) ([Package.](https://github.com/Yu-Group/adaptive-wavelets)) Wooseok Ha, Chandan Singh, Francois Lanusse, Srigokul Upadhyayula, Bin Yu. 35th Annual Conference on Neural Information Processing Systems (_NeurIPS 2021_). [arXiv:2107.09145](https://arxiv.org/pdf/2107.09145.pdf)
 

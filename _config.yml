@@ -8,7 +8,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
-show_social: true         # show footer
+show_social: false        # show footer
 show_excerpts: false      # show article excerpts on the home page
 show_frame: false         # adds a gray frame to the site
 show_sidebar: false       # show a sidebar instead of the usual header
@@ -16,9 +16,9 @@ show_sidebar: false       # show a sidebar instead of the usual header
 # Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
+  - {file: "people.md", title: People}
   - {file:  "research.md", title: Research}
   - {file:  "teaching.md", title: Teaching}
-  - {file: "people.md", title: People}
 #  - {file:  "CV.md", title: CV}
   # - {file: "python-basics.md", title: Python-Basic}
   # - {file: "python-applications.md", title: Python-Applied}
